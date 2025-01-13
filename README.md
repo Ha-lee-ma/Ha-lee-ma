@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ha-lee-ma
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on data analytics & science projects
+- 👀 I’m a Research Associate
+- 🌱 I’m currently interested in the field of Data Science
+- 💞️ I’m open to opportunities in the said field
 - 📫 You can reach me at haleemaali268@gmail.com
 - 👤 Or approach me on https://www.linkedin.com/in/haleemasadiaali/
 
